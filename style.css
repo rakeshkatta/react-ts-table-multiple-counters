@@ -1,0 +1,11 @@
+h1, p {
+  font-family: Lato;
+}
+
+table, table tr, td, tbody, thead {
+  border: 1px solid #000
+}
+tr:nth-child(even) {background-color: #f2f2f2;}
+tr:nth-child(odd) {
+background-color: beige;
+} 
